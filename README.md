@@ -140,6 +140,8 @@ On image:
 python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg
 ```
 
+VC: to test on TEC Dataset
+
 <div align="center">
     <a href="./">
         <img src="./figure/horses_prediction.jpg" width="59%"/>
